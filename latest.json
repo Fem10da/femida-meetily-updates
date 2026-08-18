@@ -1,15 +1,15 @@
 {
-  "version": "0.5.0",
-  "notes": "Femida meetily 0.5.0 — macOS Apple Silicon і Windows x64",
-  "pub_date": "2026-08-18T21:20:43.391Z",
+  "version": "0.5.3",
+  "notes": "Femida meetily v0.5.3 — українська локалізація та виправлення updater",
+  "pub_date": "2026-08-18T22:00:05.564Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUDhyUGtUUERFQVFaVGZQSVVXV2wyWWR0NXo2dVVlUm5MemQ5eWhIZncxNHpoR2pSNDN2TTBGdEUydk0xMnpzM1lBU0xYQUVwQnpnNE9KMlJNYjlFcnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDg3ODk5CWZpbGU6RmVtaWRhIG1lZXRpbHlfMC41LjBfeDY0X2VuLVVTLm1zaQpMOSs3bDN2RHhzOHE2WUlZMXlJN1dPaHhMN0YyRG9xQjJyTlVuOFZXeVZKMXR2ampXYlNvVHhEN2ljT0hSRlpxdjUwWTZweS9SL1pGSnpTZE1ZNDBDQT09Cg==",
-      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.0/Femida%20meetily_0.5.0_x64_en-US.msi"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUDFHd3hkbEVkZnpyZmpIajFTd3NmdGVlRlFOWGZBN1ZVbTlmQVpjZnZVemZ4RlVzQ3hZVGcyRlMzcnRSc0hCdDIzVmt2V294S2k1TVhRNnptbHczSndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDg3MTk1CWZpbGU6RmVtaWRhIG1lZXRpbHkuYXBwLnRhci5negphcFpxMFlpMEQrN1h6UWducytmTXFZNXY1OVNua3lzSW1aNG9hZzV3TWFhRDMxTkl0SXgvU3g0YVlVWkQ2RS9HbkVhSW1OeGlhODBxVUg2YjAvTXhDdz09Cg==",
-      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.0/Femida%20meetily.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUDhtQm9KOWFERFd6WkJ3Z1NVV1piWm5rejFUeEhUSGZ3NVB0TXFMbXRxT0lOcUpOamVOSUdKR2g1cTgyN3M2V2NoUlRlNFpIMWpKSWdtUWpadFkwWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDg5Njc1CWZpbGU6RmVtaWRhIG1lZXRpbHkuYXBwLnRhci5negp3WmhKZnRLUUhldHRTMjc5cyt2ZmtFZC9kZ3p0amltWlp4N3JpandnREY4QjdOc21FZnlONXpUd2JSek8wM1BTNFhZTjFWOW4rSnJ6LzBYRC91TTBDdz09Cg==",
+      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.3/Femida.meetily_0.5.3_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUCtnbWw4RDNZMU9jR3hoOTZiQlRpR3BaT2NsM1E1bTdaV0lBK2wwYUg5LzRHT0hPTGEwa2JqL21xRUFDZzVCdElLdmJEQVpmak5DdFRpSWwzYWNnc3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDkwMjgzCWZpbGU6RmVtaWRhIG1lZXRpbHlfMC41LjNfeDY0X2VuLVVTLm1zaQpTbFRHZUY0UTNhQ3krOHhhKzJZK0RQSmxFTnh0dWc3UVNFQXVOdnFiNCtrdjVZY29BY3RZb3RRWFBxbmFadXByU0xicUIxQU9PQ2FBNTY5ZUxJUC9DUT09Cg==",
+      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.3/Femida.meetily_0.5.3_x64_en-US.msi"
     }
   }
 }
