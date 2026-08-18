@@ -1,0 +1,7 @@
+227c1e78fa40549ea3abb6dcced7c551717daa31d00c8c4214e9ed0a352a11cf  Femida meetily.app.tar.gz
+1fd35a6a77666a42d02a9dd53b7572ade7fbf4ea1ad4f66422de75b03a62a472  Femida meetily.app.tar.gz.sig
+e4e33ae17737362b88f0a7270d2904e4ca73afa6a0747816c93a8d88b94dd9ab  Femida meetily_0.5.0_aarch64.dmg
+0fbdce4f46adf6dc4b690b25652dca604fb64b859595ef78b2b0cfd779ed7540  Femida meetily_0.5.0_x64-setup.exe
+12964b83f304d58513d2c8285cc42c0c9219d71dff34bb9ed8aa81fa5e9415c6  Femida meetily_0.5.0_x64-setup.exe.sig
+f228ca4b8f292f62bf7c6f0d6ba36b7dae041487a494fd683f10e73579962530  Femida meetily_0.5.0_x64_en-US.msi
+ffbd2ee8d502054013b4e0334b911e93ac6b6e1e4babb0ce69e6323583e40ebe  Femida meetily_0.5.0_x64_en-US.msi.sig
