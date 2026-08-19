@@ -1,15 +1,15 @@
 {
-  "version": "0.5.7",
-  "notes": "Femida meetily v0.5.7",
-  "pub_date": "2026-08-19T08:01:25.494Z",
+  "version": "0.5.11",
+  "notes": "Femida meetily v0.5.11",
+  "pub_date": "2026-08-19T09:49:59.996Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUHpQbW9PUSsrSmFXSVJHZTd0bHRQY2FvWHlqWXZITkpuakdad3k5QUdtQmFuUTBReGlFVnRkWmFOWkg0T2tPTThhdGlSSDdoRHNMY0gxdUhTTEpHRGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTI1ODAyCWZpbGU6RmVtaWRhIG1lZXRpbHkuYXBwLnRhci5negp2OTVXeldHRlg2R095eHAzU1B5OFNxcURCRXdXaHRzV3Y4RUtRNWtSa0hWUGFjd0ZlNjgyeXA2Ryt6amNZbFQ3NUpjN0NmUEp2Y1UzaU1ib3BQaThCdz09Cg==",
-      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.7/Femida.meetily_0.5.7_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUC9mN2ZCNWswNnY3SkpSTmJ4TmFYS01heVl2ZlNjNjJDamZjdi9SSUNHVVpna2xURjhvRW9wN1pSNklsZWxIYlV3Mlp1OE5mQWJhU0FieVkwRnlrQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMyMjc2CWZpbGU6RmVtaWRhIG1lZXRpbHkuYXBwLnRhci5negpGUW80SDBxZUVpVzhOUkljT3orNTJIZ2VnNCtsTndpQjdPcHFOSGtLODd4dzN5Z3JhUEhPanEreXc2R2dlcUtvaS9wQWg0QTFyYklKMy9PL2J3K2pCUT09Cg==",
+      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.11/Femida.meetily_0.5.11_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUDVHUnp5V3Evd29GNXBWd2drSU5LaExiTE8rL1poVTgxVjFTYlVVODV6UUNUQzJGWEh2bnE1MUZUT0VrSkNLUjlyNGo2amJJOUsrbzVmQW5iL3NWdEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTI2NDI4CWZpbGU6RmVtaWRhIG1lZXRpbHlfMC41LjdfeDY0X2VuLVVTLm1zaQpWNDd3ZFAwMUh2N1ZNaTI0aXdMcXlsdmx3a1Q4dUJWZStOQk95RDFWR01CZWJOUGdZcmtuWjZFdkpRaDZsVU1oQ2NHVG95WWJpK2JmenhjSVF1SmRCQT09Cg==",
-      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.7/Femida.meetily_0.5.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbStCVFBmNFhjUC91RzJYZjBXcVVzWWY1UFkvSmlhQnpvOWNoaHd4bytGRForQXhaZWNxU0lwcWt4L2ErcXVIQzNJVk9DeHJKa1kvSE5SU1ZoUlNDUExacFhBdG9pY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMyOTQyCWZpbGU6RmVtaWRhIG1lZXRpbHlfMC41LjExX3g2NF9lbi1VUy5tc2kKRklIckhReUVrR1J3cSs1VC9uMnMwcklTaVdvQ3hCR05TUGdsKzhPZ0RDS0pTZmdwaENnV1pQeC9QWGRBOGUzaFRBUFNsV3JpajB5WlAvRFRPU2JQREE9PQo=",
+      "url": "https://fem10da.github.io/femida-meetily-updates/releases/0.5.11/Femida.meetily_0.5.11_x64_en-US.msi"
     }
   }
 }
