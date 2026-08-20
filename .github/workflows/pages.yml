@@ -1,0 +1,57 @@
+name: Deploy updater Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: updater-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Fetch current updater payload
+        env:
+          REPOSITORY: ${{ github.repository }}
+          REVISION: ${{ github.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 --filter=blob:none --no-checkout \
+            "https://github.com/${REPOSITORY}.git" site
+          latest_release="$(git -C site ls-tree -d --name-only "${REVISION}:releases" | sort -V | tail -n 1)"
+          test -n "$latest_release"
+          git -C site sparse-checkout init --no-cone
+          git -C site sparse-checkout set \
+            '/.nojekyll' \
+            '/index.html' \
+            '/latest.json' \
+            "/releases/${latest_release}/"
+          git -C site checkout "$REVISION"
+          test -s site/latest.json
+          test -d "site/releases/${latest_release}"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
